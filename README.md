@@ -1,1 +1,1 @@
-updates: paper under review code to be shared when published
+paper under review, code to be opensourced when published 
